@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9829],{5204:e=>{e.exports=JSON.parse('{"title":"Python","slug":"/category/python","permalink":"/docs/category/python","navigation":{"next":{"title":"Flask","permalink":"/docs/Python/Flask"}}}')}}]);

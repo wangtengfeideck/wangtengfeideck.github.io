@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[649],{750:s=>{s.exports=JSON.parse('{"label":"python","permalink":"/docs/tags/python","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Python/Flask","title":"Flask","description":"\u521b\u5efaflask\u9879\u76ee","permalink":"/docs/Python/Flask"}]}')}}]);
